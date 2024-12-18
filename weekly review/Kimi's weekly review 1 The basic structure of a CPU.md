@@ -17,7 +17,7 @@ You can use it as a review if you have knowledge in this.
 Register used to store the address of the instruction to be fetched. When an instruction is executed, the value of PC will increment by one to store the next address.
 
 2. *IR* *: Index Register*
-An index register is iused in index addressing. Most not only used in the determination of an operand address, but also can be used as a counter.
+An index register is used in index addressing. Most not only used in the determination of an operand address, but also can be used as a counter.
 
 3. *MAR: Memory address Register*
 A register of constant storage, used to store the address of data which is going to be loaded.
@@ -77,3 +77,17 @@ It contains six main components:
 - Buses
 - System Clock
 - Cache (IAS) (Immediate access storage)
+
+Next, I will introduce how this cycle works.
+In the *fetching* stage,
+1. The instruction address is stored in *PC*, fetched from *RAM*.
+2. The *MAR* accesses *PC* and stores the value in its contents. 
+3. The *MDR* access the address stored in *MAR* and stores the address's contents.
+4. The *CIR* access *MDR* and fetch the current instruction code.
+5. The PC is then incremented by 1.
+6. The instruction fetched is then decoded.
+
+In the *execution* stage,
+The processor passes the decoded instruction as a set of control signals to the appropiate components within the computer system.
+
+
