@@ -27,6 +27,6 @@ int = $\int$
 ooo = $\infty$
 sum = $\sum$
 prod = $\prod$
-
+~~wdec~~
 
 
