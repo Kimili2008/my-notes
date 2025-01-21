@@ -64,21 +64,18 @@ Another similiar but harder problem:
 
 ## Forced oscillations
 same conditions, but this time the ball moves with friction acting on it. To stop losing too much energy, a periodic force acts on it.
-$$
-ma = -kx-bv+F_{0}\cos(wt)
-$$
+
+$$ma = -kx-bv+F_{0}\cos(wt)$$
+
 it can be written as:
-$$
-mx^{''}+bx^{'}+kx=F_{0}\cos(wt)\text{ let  } b/2m=\beta\text{ let } \frac{F_{0}}{m}=a_{0}
-$$
-$$
-x_{1}=A_{1}e^{-\beta t}\cos(\sqrt{ w_{0}^{2}-\beta^{2} }t+\theta_{1})
-$$
+
+$$mx^{''}+bx^{'}+kx=F_{0}\cos(wt)\text{ let  } b/2m=\beta\text{ let } \frac{F_{0}}{m}=a_{0}$$
+
+
+
+$$x_{1}=A_{1}e^{-\beta t}\cos(\sqrt{ w_{0}^{2}-\beta^{2} }t+\theta_{1}$$
+
  
-$$
-x_{2}=C_{1}\cos(wt)+C_{2}\sin(wt)=A_{2}\cos(wt+\theta)
-$$
-$$
-x(t)=A_{1}e^{-\beta t}\cos(\sqrt{ w_{0}^{2}-\beta^{2} }t)+A_{2}\cos(wt+\theta)
-$$
+$$x_{2}=C_{1}\cos(wt)+C_{2}\sin(wt)=A_{2}\cos(wt+\theta)$$
+$$x(t)=A_{1}e^{-\beta t}\cos(\sqrt{ w_{0}^{2}-\beta^{2} }t)+A_{2}\cos(wt+\theta)$$
 We can notice that when the period of forced oscillation equals to the natural frequency, the object oscillates at maximum
