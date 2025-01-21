@@ -5,7 +5,8 @@
 
 Consider the following equations
 $$
-\begin{align}
+\begin{align} \\
+\text{ This is a test }
  C_{1}y^{(n)}+C_{2}y^{(n-1)}+\dots+C_{n+1}y=0\\
 \end{align}
 $$
