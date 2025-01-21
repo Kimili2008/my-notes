@@ -1,3 +1,5 @@
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 ## Some traits of differential equation
 - Linear/non-linear
 - homogeneous/non-homogeneous
