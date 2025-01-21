@@ -4,13 +4,13 @@
 - homogeneous/non-homogeneous
 ## Ways to solve ordinary homogeneous linear differential equations
 Consider the following equations
+
 $$C_{1}y^{(n)}+C_{2}y^{(n-1)}+\dots+C_{n+1}y=0$$
+
 
 let us assume $y=\lambda e^{\lambda}$
 Then we can write the equation into:
-$$
-C_{1}\lambda^{n}+C_{2}\lambda^{n-1}+\dots+C_{n}\lambda+C_{n+1}=0
-$$
+$$C_{1}\lambda^{n}+C_{2}\lambda^{n-1}+\dots+C_{n}\lambda+C_{n+1}=0$$
 The equation is solved.
 The n-order equation has n answers
 $$
