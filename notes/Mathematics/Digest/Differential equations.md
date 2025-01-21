@@ -2,12 +2,10 @@
 - Linear/non-linear
 - homogeneous/non-homogeneous
 ## Ways to solve ordinary homogeneous linear differential equations
-
 Consider the following equations
 $$
-\begin{align} \\
-\text{ This is a test }
- C_{1}y^{(n)}+C_{2}y^{(n-1)}+\dots+C_{n+1}y=0\\
+\begin{align}
+ C_{1}y^{(n)}+C_{2}y^{(n-1)}+\dots+C_{n+1}y&=0
 \end{align}
 $$
 
