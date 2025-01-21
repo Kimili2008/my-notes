@@ -4,9 +4,12 @@
 ## Ways to solve ordinary homogeneous linear differential equations
 
 Consider the following equations
- $$
-C_{1}y^{(n)}+C_{2}y^{(n-1)}+\dots+C_{n+1}y=0
 $$
+\begin{align}
+C_{1}y^{(n)}+C_{2}y^{(n-1)}+\dots+C_{n+1}y=0
+\end{align}
+$$
+
 let us assume $y=\lambda e^{\lambda}$
 Then we can write the equation into:
 $$
