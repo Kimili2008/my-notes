@@ -1,8 +1,6 @@
 ---
 Date: 2024-12-22T17:18:00
 ---
-
-
 1.bouyant
 While industries generally had declined during the financial crisis, he still asserted that the defense sector would remain a robust momentum./would remain buoyant.
 At the forthcoming end of the year 2024, India seems to be rapidly returning to its buoyant years preceding 2008.
