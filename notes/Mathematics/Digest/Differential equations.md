@@ -1,15 +1,12 @@
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 ## Some traits of differential equation
 - Linear/non-linear
 - homogeneous/non-homogeneous
 ## Ways to solve ordinary homogeneous linear differential equations
 Consider the following equations
-$$
-\begin{align}
+$$\begin{align}
  C_{1}y^{(n)}+C_{2}y^{(n-1)}+\dots+C_{n+1}y=0\\
-\end{align}
-$$
+\end{align}$$
 
 let us assume $y=\lambda e^{\lambda}$
 Then we can write the equation into:
