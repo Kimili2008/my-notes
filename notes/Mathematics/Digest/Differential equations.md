@@ -5,8 +5,7 @@
 
 Consider the following equations
 $$
-\begin{align} \\
-\text{ This is a test }
+\begin{align}
  C_{1}y^{(n)}+C_{2}y^{(n-1)}+\dots+C_{n+1}y=0\\
 \end{align}
 $$
@@ -49,4 +48,5 @@ general answer=$C_{1}e^{a}\cos(b)+C_{2}e^{a}\sin(b)$ when $\Delta<0$
 
 
 
- 
+ When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
