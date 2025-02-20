@@ -20,7 +20,7 @@ Amei said, "Life in university isn't easy, but it isn't as arduous as you think.
 The five abilities should be put emphasis on in work, adaptability, tactic, long-term resilience, ardous and dynamic nature.
 7.jeopardise
 Officials have not so far been able to figure the causes of the malfunction, nor they can determine whether this will jeopardise the whole launch mission.
-Then why on earth do you flee away and start adventures? The taoism of longevity is to stay away from everything which is dangerous.
+Then why on earth do you flee away and jeopardise yourself? The taoism of longevity is to stay away from everything which is dangerous.
 8.exhilarate
 When the war lost its capacity to exhilarite, the leader of the country needs something else.
 Since the beginning, the design of the ejection chairs had been designed to fill with thrillness and nervousness.
@@ -48,5 +48,13 @@ They tiptoed along the corridor and peered at the little optimist, who was throw
 In the natural setting, the germs in manure quickly dies as the manure is exposed to the sun and air, crumbling and drying.
 18.ensue
 No one could guarantee what would ensue after such a big giant like Bell went bankrupt.
-
+19.presumptuous -assuming too much, arrogant
+20.solemnly -seriously
+21.copious -abundant
+22.notorious -widely and unfavorably known
+23.stigma -mark of disgrace
+24.lurk -ready to ambush, hide
+25.festivity -a joyous celebration, holiday or feast
+26.huddle -curl up beneath, a cluster of 
+27.tweak -slight adjustment, twist
 
