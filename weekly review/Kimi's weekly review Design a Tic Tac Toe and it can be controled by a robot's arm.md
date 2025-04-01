@@ -38,11 +38,6 @@ Date: 2025-01-24T18:11:00
 6. USB2UART
 7. Dupont line
 8. Breadboard
-
-
-
-
-
 ## Servo control
 The servo has four degrees of freedom.
 

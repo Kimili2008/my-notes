@@ -44,3 +44,4 @@ general answer=$C_{1}e^{a}\cos(b)+C_{2}e^{a}\sin(b)$ when $\Delta<0$
 
 
 
+
