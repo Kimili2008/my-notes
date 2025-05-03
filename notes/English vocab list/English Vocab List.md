@@ -17,7 +17,7 @@ Seek for education that will confer spiritual professionalism, and you shall bec
 If your university can confer the scholarship to me, I would be very grateful.
 6.arduous
 Amei said, "Life in university isn't easy, but it isn't as arduous as you think."
-The five abilities should be put emphasis on in work, adaptability, tactic, long-term resilience, ardous and dynamic nature.
+The five abilities should be put emphasis on in work, adaptability, tactic, long-term resilience, arduous and dynamic nature.
 7.jeopardise
 Officials have not so far been able to figure the causes of the malfunction, nor they can determine whether this will jeopardise the whole launch mission.
 Then why on earth do you flee away and jeopardise yourself? The taoism of longevity is to stay away from everything which is dangerous.
@@ -98,5 +98,121 @@ The countess heard the whole of the confession without saying a word either of a
 Among the rest, there was one set down as an approved medicine for the disease under which Laf  said the king at that time languished ,and when the Helena heard the king's complaint...
 47.omnisicent
 The omnisicent sat down on a tranparent throne with golden ornaments, asked "Say your name, creature. I know EEEEVERYTHING"
+48.delusion
+illusion/misunderstanding
+Bertrand Russell
+In dreams a very complicated world may seem to present, and yet on waking we find a a delusion.
+49.naval
+navy's, marine
+50.supposition
+hypothesis, guess, deduction
+51.datum 
+data, known figure(maths), supporting ideas
+And if the cat consists only of sense-data, it cannot be hungry, since no hunger but my own can be a sense-datum to me.
+52.inexplicable
+in-explain-able
+hard to explain
+53.diminish
+undiminished-remaining at the previous state, not decreased, mitigated
+and only slightly so in the case of touch- leaves undiminished our instinctive belief that there are objects corresponding to our sense-data.
+54.wholly
+totally, entirely
+-that the external world really exists, and is not wholly dependent for its existence upon our continuing to perceive it.
+55.set forth
+published, declared
+It should take care to show that, in the form in which they are finally set forth, our instinctive ideas do not clash, but form a harmonious system.
+(harmonic is a professional word in physics and music, be careful to use it.)
+56.clash
+do not clash
+CLASH ROYALE 
+counteract, conflict, contradict, having discrepencies
+57.scrutiny
+a thorough investigation and examination
+overhaul
+Hence, by organizing our instinctive beliefs and their consequences, by considering which among them is the most possible, if necessary, to modify or abandon, we can arrive, on the basis of accepting as our sole data what we instinctively believe, at an orderly systematic organization of our knowledge, in which, though the possibilty of error remains, its likelihood is diminished by the interrelation of the parts and by the critical scrutiny which has preceded acquiescence.
+58.acquiescence
+acceptance, consent, agreement (usually reluctantly)
+Accept one thing by neither giving permission nor rejecting.
+59.attainable
+Achieveable, be able to get
+attain(obtain, get ,reach)
+60.preceding
+Less than a nanosecond to attain it, a lifelong of passionate pursue to maintain it.
+
+61.persist
+continue, persevere
+put forth effort when it is called for and persist
+62.aether=ether
+once was seen by the medium in which light travels through
+aethernet a protocal which defines the way and medium of communication
+
+63.oval
+ellipse
+64.percipient
+sharp, a person who is sensing, acute
+65.connexion
+connection, relation
+66.opaque
+untransparent, ambiguous
+opaque glass (glass not transparent)
+
+67.ordnance
+artillery, military supply
+
+68.lapse elapsed
+
+
+69.constitude (constituent)
+
+
+70.agreeably
+
+
+71.regiment
+
+
+72.rudimentary
+namely, either(as Leiniz held) more or less rudimentary minds, or ideas in the minds which, as we should commonly say, 'perceive the matter'
+73.Latin of the schoolmen
+schoolmen: theologian in the late medieval period
+
+74.so long as 
+as long as ==
+
+75.fallacies
+wrong, logically paradoxical errors
+In the following chapters we shall consider briefly the reasons -- in my opinion fallacious, which idealists advance in favour of their theory.
+
+
+76.engender
+Trying to isolate China might engender the sort of nationalistic, aggressive China which its supporters may worry.
+
+77.competent
+capable, entitled, qualified, proficient
+78.disentangle
+solve, twist, get rid of 
+79.apprehend(apprehension)
+80.assent
+consent agree
+81.unduly
+
+82.tautology
+83.obscure
+84.chimaera
+pronunciation kai-mirror
+hybrid animals
+unrealistic dreams, aspirations
+and therefore matter, if it is not composed of minds or of mental ideas, is impossible and a mere chimaera
+85.thwart
+block, impede, deter
+has the importance of either satisfying or thwarting the desire
+86.palpable
+obvious, evident
+This is by no means a truism, but on the contrary a palpable falsehood.
+87.truism
+cliché, common knowledge
+88.nectur
+琼浆玉液
+
 
 
