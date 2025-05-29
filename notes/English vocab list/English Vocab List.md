@@ -213,6 +213,30 @@ This is by no means a truism, but on the contrary a palpable falsehood.
 cliché, common knowledge
 88.nectur
 琼浆玉液
+89.perpetual -eternal-persistent-longlasting
+90.mundane -monotonous
+91.pungent -with a strong scent
+92.embed -embedded嵌入的
+93.scold -abuse
+94.clause -provision
+95.Lacking sleep made her neurosis come to fore
+neurosis-delirious
+96.lag -slug
+97.brashness -boldness, wildrider, crude and impetuous
+98.maimed -disabled, cripped(unable to walk steadily)
+99.relinquish -surrender, give up
+100.glimpse-peek, take a look
+shoot a glance at = glimpse
+a glimmer of hope;glimmer = a faint light
+101.dean=leader of an academy
+102.tramp -vagrant, unemployed, wanderer
+103.virtuous, kind, moral, decent,
+a virtuous people with well-educated behaviours =paragons=saint
+104.transcends=surpasses=overtakes=outranks=outweighs=surmounts=overreaches
+105.nil,zip,zero,nada 
+106.liquor-heavy spirits-wine with a high alcohol concentration
+107.
+
 
 
 
