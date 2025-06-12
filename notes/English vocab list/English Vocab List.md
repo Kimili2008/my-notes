@@ -195,7 +195,6 @@ solve, twist, get rid of
 80.assent
 consent agree
 81.unduly
-
 82.tautology
 83.obscure
 84.chimaera
@@ -235,7 +234,63 @@ a virtuous people with well-educated behaviours =paragons=saint
 104.transcends=surpasses=overtakes=outranks=outweighs=surmounts=overreaches
 105.nil,zip,zero,nada 
 106.liquor-heavy spirits-wine with a high alcohol concentration
-107.
+107.reboot
+108.millennium
+109.mosque
+110.Maya
+111.Inca
+112.ingenius/creative
+113.warfare
+115.salmon
+116.significant/vital/valuable/substantial
+118.arid land
+119.resilient-flexibility-adaptivity
+120.elaborate
+121.agriculture
+122.atlantic
+133.monarch
+135.foster-nurture-cultivate
+136.imagination
+137.establish
+138.pioneer
+139.conquest
+140.voyages
+141.renaissance
+142.navigation
+143.population
+144.outward-external
+145.humanism
+146.intense religion fervor
+147.muslim
+149.favor/flavor
+150.utility-utilize
+155.upheaval
+156.indulgance
+156.the bible
+160.sovereignty
+162.supremecy
+163.turmoil
+164.capitalism/ communism
+166.impose
+167.indigenous
+168.christianity
+169.brutal
+179.staggering/astonishing/surprising/unbelievable
+180.trek/excursion/hike
+181.odyssey/expedition
+190.revolution/revolt/upheaval
+191.hierarchital/discriminatory/hierarchy/discrimination
+192.ideology
+193.buffalo
+194.Influence of  invention of print press technology
+195.shattered/devestated/destroyed
+196.Antarctica/南极，长的
+197.Arctic/The north pole 北极，短的
+198.Asia,North/South America, Oceania, Europe
+199.The Atlantic, The Pacific, The Indian Ocean, The Antaricia, The Antaric Ocean, The Arctica, The Arctic Ocean, 
+200.encyclopedia
+201.inevitable
+
 
 
 
