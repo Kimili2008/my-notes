@@ -89,3 +89,24 @@ Build a huffman tree - a tree which stores the probability and the bits are dist
 To load our information onto the waves with higher base frequency (so that the signal can be transmitted through longer distances).
 Demodulation is the reverse function of modulation (to extract the original message from the received message)
 
+
+
+### Redundancy in data transmission
+
+CRC Ethernets protocols have a CRC code
+1. 本质上为多项式的取余运算$G(x) =x^3+x+1$，在二元伽罗华域上做操作
+2. 对于数据$1011$，数据补零$101100=^{def}=x^5+0\times x^4+x^3+x^2+0\times x+0$（为后面加上余数做准备）
+3. 对于数据进行约定生成多项式的取余运算，最后会余下一个余数，也叫CRC码，长度为生成多项式的长度减一
+4. 将该CRC码替换到原多项式的尾部，那么加上了余数的数字应该能去被约定的$G(x)$整除了。
+
+
+Hamming code
+1. 假设用户的数据为$11010$，我们这样操作：加入偶校验码1：负责校验所有从左往右数二进制编号第一位为1的，001，011，101，111，偶校验码2：负责校验所有从左往右数二进制编号第二位为1的，010，011，110，111，以此类推
+2. 直观地写出来是这样的：（P1，P2，D，P3，D，D，D，P4），我们可以观察到校验码占据的位置都是从左往右数二的幂，这样也是一种标记，便于解码
+3. 这里传输的就是（101010100）
+4. 此时这个校验码就承担了寻址的功能，一个校验码对应一个数位，如果只有一个digit有问题，接收方能直接通过错误的校验码位置查出来
+
+思考：在数字通信中，CRC校验、汉明码是如何通过“冗余”来对抗”噪声”（不确定性）的？
+
+CRC码根据多项式的取余运算创造了余数（CRCcode）的冗余，进而去对抗传输过程中的问题。
+汉明码通过偶校验的再计算实现了对错误digit的寻址，进而可以解决微弱噪音，此处的冗余是偶校验的比特数。
