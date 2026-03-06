@@ -20,3 +20,30 @@ int main(){
 
 }
 ```
+
+
+```c++
+int main(){
+//vector: dynamic array
+	vector <int> v1;
+	vector <int> v2(10);
+	int[] arr = {1,2,3,4,5};
+	vector <int> v2(arr, arr+5);
+	//example
+	vector <int> vec;
+	//push
+	vec.pushback(10);
+	vec.pushback(20);
+	//insert
+	vec.insert(vec.begin()+1,10);
+	cout << vec.front << vec.back << endl;
+	//iteration
+	for (int num = 0, i < vec.size(), i++){
+		cout << vec[i] << endl;
+		
+	}
+	
+	
+
+}
+```

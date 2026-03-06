@@ -74,6 +74,7 @@ Structure: public inheritance / variable
 
 
 ## Reference /value
+*值得注意的是,reference和value的底层汇编完全一样，只是reference在语法上不允许赋值多次*
 ```C++
 // by reference pass the variable into the function (extend the function domain of the variable)
 
