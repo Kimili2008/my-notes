@@ -75,22 +75,35 @@ long-run average cost
 
 
 值得一提的是，demand curve可以被看成是MU（边际效用）曲线，supply curve可以被看成是MC（marginal cost）曲线。
+
+
+
+## Perfect Competition
+
+![[373ef7661a542ab6201b2ebd54e5ebf9.jpg]]
+
+![[f908015f4ba7eecd24f58dc25e93e446.jpg]]
 ## monopoly
-![[18c6e456465fc938923a226235973238.jpg]]
+单独一家企业的需求变化等于一整个市场的需求变化
+
 - monopoly会造成dead weight loss
 
 ## Oligopoly（寡头）
 
+
 ## monopolistic competition
 
-![[90ac201594fe2364fab44c73641568f9.jpg]]
-
-## perfect competition
-![[3160fe2b6f92699a5d5ece0890315401.jpg]]
-
+![[e267f8c6ee7b70a16494b70647c9f6ab.jpg]]
 ## government's measurements for monopoly
 
 - subsidies
 - fair price
 
 
+# Measures for the government to maximize social surplus
+![[33b22baf0239834a732bb0cb424ec90c.jpg]]
+分为negative（如汽车）和positive externalities（如树的产量）
+分别用subsidies和taxes解决
+
+public goods的分类
+![[526910579fc65eb97e3ef2e93f2c6ea8.jpg]]
