@@ -35,3 +35,6 @@ a:study pace 人为设定的步长
 
 linear kernel matrix： $k(x_{i},x_{j})=x_{i}^Tx_{j}$
 gaussian kernel matrix: $k(x_{i},x_{j})=e^{\frac{\lvert x_{i}-x_{j} \rvert}{2\sigma^2}}$
+
+
+
