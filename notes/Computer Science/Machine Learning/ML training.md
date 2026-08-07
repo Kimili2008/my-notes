@@ -129,6 +129,9 @@ Hyperparameters do get stable over time and platforms!
 
 Babysitting one model (record its past states and recover when there's fault)
 Training many models in parallel
+
+
+
 # Softmax Regression
 
 softmax normalization 归一化

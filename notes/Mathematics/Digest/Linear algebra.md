@@ -1,4 +1,11 @@
 
+# First principle of matrix calculation
+We should know that the only reason and meaning of inventing matrix calculations is manipulating operators simultaneously. 
+
+$$AB_{{}ij}=\sum_{k}A_{ik}B_{kj}$$
+by using this formula, we can proof all fundamental matrix operations.
+
+
 
 Elimination 消元法
 simplify linear equations
@@ -65,7 +72,7 @@ when r < m; r < n; there are infinite/zero solutions
 
 **1. 建立关联矩阵 $A$：** $$A = \begin{bmatrix} -1 & 1 & 0 \ 0 & -1 & 1 \ 1 & 0 & -1 \end{bmatrix} \text{}$$
 
-**2. 设定节点电势 $x$：** 假设节点电势为 $x =^T$（节点3已接地）。
+**2. 设定节点电势 $x$：** 假设节点电势为 $x =[10,5,0]^T$（节点3已接地）。
 
 **3. 计算电势差 $e = Ax$：** $$e = \begin{bmatrix} x_2 - x_1 \ x_3 - x_2 \ x_1 - x_3 \end{bmatrix} = \begin{bmatrix} 5 - 10 \ 0 - 5 \ 10 - 0 \end{bmatrix} = \begin{bmatrix} -5 \ -5 \ 10 \end{bmatrix} \text{}$$ 注意：在一个回路中，电势差之和始终为 0（$-5-5+10=0$）。
 
@@ -87,13 +94,15 @@ when r < m; r < n; there are infinite/zero solutions
 先推导矩阵投影公式。
 when $Ax=b$ 
 with bias / have no roots so find 
-$A\hat{x}=p$,where p is the closest vector to b.
+$A\hat{x}=p$,where p is the projection of b on column space of A
 $$e=b-A\hat{x}$$
 $$A^T(b-A\hat{x})=0$$
 $$A^Tb=A^TA\hat{x}$$
 $$(A^TA)^{-1}A^Tb=\hat{x}$$
 $$P=A(A^TA)^{-1}A^T$$
+P is projection matrix p = Pb
 
+In the least square method, the y predicted is found by projecting y onto the column space of X, and W is found later.
 ### Lecture 20：克拉默法则、逆矩阵与体积
 
 这一讲展示了行列式如何将矩阵的所有信息浓缩成公式：
@@ -116,3 +125,6 @@ $$P=A(A^TA)^{-1}A^T$$
 - **特殊情况**：投影矩阵的特征值只能是 1 或 0；旋转矩阵可能会出现**复数**特征值；如果特征值重复，矩阵可能面临特征向量不足的“退化”情况。
 
 这两讲的内容让你看到了行列式的威力，也开启了分析系统动态行为的大门。对于“特征值之和等于迹”这个性质，你想看个具体的例子验证一下，还是直接进入 Lecture 22 看看特征值怎么帮我们算矩阵的幂（比如斐波那契数列）？
+
+
+
