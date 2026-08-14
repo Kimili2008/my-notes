@@ -22,3 +22,13 @@ isolate each project to avoid version conflicts
 - and the terminal becomes (.venv) user@Mac Amadeus %
 - deactivate to exit and go back to normal python
 
+
+deactivate
+
+rm -rf .venv
+
+python3.11 -m venv .venv
+
+pip install 'cellpose[gui]'
+
+python -m cellpose

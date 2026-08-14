@@ -6,3 +6,12 @@ USDT/USDC
 
 C2C购买（比较安全，但是留记录，可以被查到）
 
+
+
+- Ethereum  (ETH) designed to solve BTC's problem: can add build-in functions ; can be seen as internet  DEFI (decentralized finance); many vital projects are established on top of ETH (like Amazon and Cloudfare)
+- Bitcoin strategic resources (like gold)
+- Binance coin BNB : Token released by binance
+- Solana (SOL) : Etherium killer 价格变动极快
+- Tron(TRX) : biggest USDT processing network 
+- DOGE (doge) : no real meaning, meme coins, pure speculation
+- 
