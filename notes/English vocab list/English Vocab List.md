@@ -290,6 +290,13 @@ a virtuous people with well-educated behaviours =paragons=saint
 199.The Atlantic, The Pacific, The Indian Ocean, The Antaricia, The Antaric Ocean, The Arctica, The Arctic Ocean, 
 200.encyclopedia
 201.inevitable
+202. coerce (to force someone to do something against their will using strong force)
+203. sedentary (staying permanently in one village, or involves long period of sitting and little physical activities)
+204. plunder (rob/steal of large scale, often organized)
+205. atrocities (extremely cruel, inhuman and violent acts)
+206. onerous (heavy, burdensome amount of effort)
+207. proprietary ()
+208. resentment (hatred) 
 
 
 

@@ -23,6 +23,9 @@ isolate each project to avoid version conflicts
 - deactivate to exit and go back to normal python
 
 
+
+
+
 deactivate
 
 rm -rf .venv
@@ -32,3 +35,21 @@ python3.11 -m venv .venv
 pip install 'cellpose[gui]'
 
 python -m cellpose
+
+
+
+
+### python@3.11 download
+
+
+1.completely uninstall py 3.11
+
+brew uninstall python@3.11
+2.clean up rest files
+rm -rf ~/Library/Python/3.11
+rm -rf /usr/local/lib/python3.11
+
+
+3. download
+use home brew
+homebrew install python@3.11
