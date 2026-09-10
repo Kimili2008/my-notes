@@ -297,6 +297,9 @@ a virtuous people with well-educated behaviours =paragons=saint
 206. onerous (heavy, burdensome amount of effort)
 207. proprietary ()
 208. resentment (hatred) 
+209. cataclysm
+210. creed(belief, faith)
+211. 
 
 
 

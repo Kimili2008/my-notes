@@ -4,7 +4,7 @@ the stockholder's Equity
 】
 ![[Pasted image 20260909190339.png]]![[Pasted image 20260729132549.png]]
 ![[Pasted image 20260729210519.png]]
-股息
+![[Pasted image 20260910134810.png]]
 
 何时该卖出？
 - The fundamentals of a company have changed
