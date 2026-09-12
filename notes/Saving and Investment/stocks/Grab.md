@@ -1,4 +1,15 @@
+# Discipline
+| 动作              | 价格区间            | 逻辑                                              |
+| --------------- | --------------- | ----------------------------------------------- |
+| **Strong Buy**  | **≤ $2.80**     | 相对 fair value $3.95 有约 **30%+ safety margin**   |
+| **Buy / Add**   | **$2.80–$3.20** | 有约 **20%+ safety margin**                       |
+| **Hold**        | **$3.20–$4.00** | 接近当前 fair value，主要看基本面兑现                        |
+| **Trim**        | **$4.80–$5.50** | 已明显高于 fair value，除非 thesis 上修                   |
+| **Sell / Exit** | **≥ $6.30**     | 接近我们算出的 5 年 Future Value，未来 upside 已基本 price in |
+
+
 Evaluation using multiples,
+
 
 Now: 30.4 PE TTM
 PEG: (5-yr expected): 0.68
