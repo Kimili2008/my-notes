@@ -10,14 +10,14 @@ This file sets **target ranges**, not prescriptive orders. The note vault does n
 
 ## Suggested Target Framework
 
-| Sleeve | Target range | Rationale |
-|---|---:|---|
-| Liquidity / SGOV | **15–20%** | Dry powder and volatility control in a rising-yield regime |
-| Core AI infrastructure (AVGO + NVDA + MU combined) | **25–35%** | High-conviction earnings exposure, but treated as one correlated factor bucket |
-| Profitable platforms (META + AMZN + optional UBER) | **25–35%** | More diversified revenue engines and stronger cash-flow support |
-| International / high-growth satellite (GRAB + other speculative names) | **5–10%** | Keeps upside optionality while respecting execution risk |
-| Defensive diversifiers / non-AI exposure | **10–20%** | Reduces dependence on one capex and discount-rate regime |
-| Crypto | **0–10%** | Maintain only if volatility budget and liquidity need allow it |
+| Sleeve                                                                 | Target range | Rationale                                                                      |
+| ---------------------------------------------------------------------- | -----------: | ------------------------------------------------------------------------------ |
+| Liquidity / SGOV                                                       |   **15–20%** | Dry powder and volatility control in a rising-yield regime                     |
+| Core AI infrastructure (AVGO + NVDA + MU combined)                     |   **25–35%** | High-conviction earnings exposure, but treated as one correlated factor bucket |
+| Profitable platforms (META + AMZN + optional UBER)                     |   **25–35%** | More diversified revenue engines and stronger cash-flow support                |
+| International / high-growth satellite (GRAB + other speculative names) |    **5–10%** | Keeps upside optionality while respecting execution risk                       |
+| Defensive diversifiers / non-AI exposure                               |   **10–20%** | Reduces dependence on one capex and discount-rate regime                       |
+| Crypto                                                                 |    **0–10%** | Maintain only if volatility budget and liquidity need allow it                 |
 
 These ranges are deliberately less aggressive than a 40% annual-return objective. A 40% target generally requires leverage, concentration or both; those choices can produce losses that make the target mathematically harder to recover. The portfolio should earn the right to add risk through validated thesis milestones.
 

@@ -21,24 +21,23 @@ assume that the equation has two imaginary answers.
 Then $\lambda=a\pm bi$
 
 $$\begin{align}
-x_{1}=e^{a}e^{bi} \\
-x_{2}=e^{a}e^{-bi}
+x_{1}=e^{ax}e^{bix} \\
+x_{2}=e^{ax}e^{-bix}
 \end{align}$$
 
-We know that
 
-$$\frac{e^{bi}+e^{-bi}}{2}=\cos(b)$$
-
-
-$$\frac{e^{bi}-e^{-bi}}{2i}=\sin(b)$$
+the answer can be written as:
 
 
-So the answer can be written as:
+$$
+y = K_{1}x_{1}+K_{2}x_{2}\text{ where }K_{1},K_{2}\text{ all complex}
+$$
+We only care about real solutions here, so $y=Conjugate(y)$
+$$
+y = e^{ax}(C_{1}\cos(bx)+C_{2}\sin(bx))
+$$
 
-$$\begin{align}
-e^{a}\cos(b)=\frac{x_{1}+x_{2}}{2} \\
-e^{a}\sin(b)=\frac{x_{1}-x_{2}}{2} \\
-\end{align}$$
+
 
 general answer=$C_{1}e^{a}\cos(b)+C_{2}e^{a}\sin(b)$ when $\Delta<0$
 
