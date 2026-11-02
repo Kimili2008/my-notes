@@ -32,7 +32,7 @@ The new thesis cards do identify several names that could be considered for a **
 | **META** | **+2/10** | Complement to AMZN/APP, not a clean AI diversification | Advertising cash generation and platform scale | Large AI capex programme and valuation already near consensus; still correlated with mega-cap growth |
 | **SEZL** | **+2/10** | Only a small complement to NU/SOFI, not a substitute for them | Strong GMV, subscriber and EPS growth; expanding recurring subscription revenue | BNPL credit losses can rise quickly; it increases consumer-credit concentration |
 
-**Priority order for further work:** UBER and MCD/PACS are the cleanest portfolio diversifiers; ORCL is the strongest headline-rated candidate but should be treated as another AI-capex exposure; SEZL is lower priority because it overlaps the existing NU/SOFI credit factor. Existing cards: [ORCL](../stocks/ORCL_2026-09-28.md), [UBER](../stocks/UBER_2026-09-28.md), [PACS](../stocks/PACS_2026-09-28.md), [MCD](../stocks/MCD_2026-09-28.md), [META](../stocks/META_2026-09-28.md), [SEZL](../stocks/SEZL_2026-09-28.md).
+**Priority order for further work:** UBER and MCD/PACS are the cleanest portfolio diversifiers; ORCL is the strongest headline-rated candidate but should be treated as another AI-capex exposure; SEZL is lower priority because it overlaps the existing NU/SOFI credit factor. Existing cards: [ORCL](ORCL_2026-09-28.md), [UBER](UBER_2026-09-28.md), [PACS](PACS_2026-09-28.md), [MCD](MCD_2026-09-28.md), [META](META_2026-09-28.md), [SEZL](SEZL_2026-09-28.md).
 
 ### A disciplined substitution framework
 

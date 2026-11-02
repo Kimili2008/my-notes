@@ -15,7 +15,7 @@ SOFI 44.49 shares
 
 # Details
 - Expected Return : 40% each year
-- Present return: 6%
+- Present return: 300%
 - Expected Sharpe Ratio: >0.8
 - Type of Investor: Growth Investor / Value Investing  Short-term Speculation will be done once a week. 
 Like to put on leverage when buying the obvious dip
