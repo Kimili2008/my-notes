@@ -41,7 +41,7 @@ Subspace must be contained within the large space. Itself must be closed for add
 Zero space is also a subspace (can be proven easily )
 
 ## why the rank of columns equal to the rank of rows
-A = $a_{1}b_{1}\n a_{2}$
+A = $a_{1}b_{1} a_{2}$
 C(A) = $(a_{1}+b_{1})x+(a_{2}+b_{2})y$
 C(A^T) = $(a_{1}+a_{2})x+(b_{1}+b_{2})y$
 let a2 = k1a1; b2 = k2b1, this can be proven

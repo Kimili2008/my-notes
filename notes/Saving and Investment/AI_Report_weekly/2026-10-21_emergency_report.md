@@ -1,0 +1,36 @@
+# Event Alert — SpaceX Q3: Operating Thesis Strengthens, Capital-Allocation Risk Rises | 21 October 2026
+
+*Post-results research note. SEC-filed Q3 release reviewed 21 October 2026; no verified regular-session reaction to the results is assumed. USD figures are company-reported unless identified as an analyst calculation. This is not a trade instruction.*
+
+## Executive judgment
+
+**SPCX's Q3 materially improves the operating evidence behind the written thesis, but does not settle its expected value.** Revenue rose to **$14.575bn** (+161% year over year), consolidated operating income reached **$2.791bn** (versus a $143m loss in Q2), and Starlink/Connectivity operating income rose to **$2.367bn**. The renamed Super Intelligence (SI; formerly AI) segment became profitable at the *operating* level (**$431m**) while scaling revenue to **$7.560bn**. These data **reinforce**, rather than break, the operating thesis. However, company capex was **$19.593bn in Q3**, including **$16.444bn in SI**, and management reportedly indicated **$35–40bn of Q4 capex** on the webcast. The size of that forward investment, acquisition-related dilution and a reported exploratory Tesla merger put the *per-share return and capital-allocation thesis under review*. Do not mechanically lift the card's old $160–175 risk-adjusted value or its 0/10 rating on the earnings beat alone. [SEC-filed Q3 release](https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm); [earnings-call transcript](https://finance.yahoo.com/markets/stocks/articles/spacex-spcx-q3-2026-earnings-005829420.html).
+
+## What changed versus the written card
+
+| Metric | Q2/card baseline | Q3 actual | Assessment |
+|---|---:|---:|---|
+| Connectivity revenue | $4.291bn | **$5.248bn** | +22% sequentially; recurring engine expands. |
+| Connectivity operating income / margin | $1.656bn / 38.6% | **$2.367bn / 45.1%** | Well above the card's 30% breaker and 35–40% base margin. |
+| Starlink consumer subscribers / monthly ARPU | 12.0m / $66 | **13.6m / $69** | Both improved sequentially; the subscriber/ARPU breaker is not triggered. |
+| SI revenue / operating income | $2.561bn / **-$1.257bn** | **$7.560bn / +$431m** | Strong inflection, but $608m of Q3 revenue came from Cursor after its 14 August acquisition; not all growth is organic. |
+| SI capex / total capex | $15.828bn / $18.369bn | **$16.444bn / $19.593bn** | Continued heavy investment, not a cash-return proof. |
+| Space operating result | -$542m | **-$7m** | Near breakeven; first revenue-generating orbital Starship mission is a meaningful milestone. |
+
+The segment figures, Cursor contribution, Starship mission and renamed SI reporting come from the [SEC-filed Q3 release](https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm). Calculated margins use reported segment operating income divided by reported segment revenue. **Do not confuse $4.953bn SI adjusted EBITDA with free cash flow:** it excludes depreciation and share-based compensation while SI capex was $16.444bn. Nine-month operating cash flow was **$13.097bn** against **$48.069bn** of capex, an approximately **$34.972bn deficit before other investing/financing flows**; cash and marketable securities totaled about **$89.855bn** at 30 September, so near-term liquidity and long-run return on incremental capital are distinct questions. [SEC Q3 release, cash-flow and balance-sheet tables](https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm).
+
+## Risks newly requiring an investment decision
+
+1. **Capex acceleration.** A published earnings-call transcript reports management's Q4 capex outlook of **$35–40bn**, roughly 1.8–2.0x Q3 spending. This forward figure is *from the call transcript, not the SEC-filed earnings exhibit* and should be rechecked against the company's own replay/transcript or later 10-Q. Even if current revenue growth is genuine, the expected value depends on contracted utilization, delivered gross margins, financing cost and payback after depreciation. [Call transcript](https://finance.yahoo.com/markets/stocks/articles/spacex-spcx-q3-2026-earnings-005829420.html); [company event page](https://ir.spacex.com/events/event-details/2026/Q3-2026-Earnings/default.aspx).
+2. **Acquisition economics.** Cursor closed on 14 August. The release states **$42.5bn GAAP purchase consideration** plus **$23.4bn of post-acquisition service-related equity awards**, subject to forfeiture, on an implied $60bn equity value. Its $608m of partial-quarter revenue is tangible, but integration, retention expense and issued equity make a simple revenue multiple misleading. [SEC Q3 release](https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm).
+3. **Governance/merger optionality, not a transaction.** Press accounts of the webcast say SpaceX and Tesla have independent-director committees *exploring* a possible combination; Musk explicitly cautioned against treating a merger as certain or imminent. No exchange ratio, financing, definitive agreement or independent valuation has been verified. Because the card already flags related-party governance and dilution, this is a **new watch item, not a completed-deal thesis break**. Require a primary filing and fairness/ownership terms before assigning deal value. [AP report](https://apnews.com/article/67064446bf0afdf529db55bdec82af69); [Axios report](https://www.axios.com/2026/10/20/spacex-tesla-merger-talks).
+
+## Portfolio impact and conditional framework
+
+`Portfolio_AI.md` still records **7.34 SPCX shares**; no card was added or modified since the prior monitor. At the 19 October reference of $147.96, this was about **$1,086 / 12.7% of the disclosed equity sleeve**. Roughly a **15.8%** isolated SPCX move would correspond to **2% of that sleeve**; the full account impact is unknown because cash and other assets are not disclosed. Do not infer an account return from after-hours or premarket indications. [SPCX quote](https://finance.yahoo.com/quote/SPCX/).
+
+- **If the share price rallies:** do not chase the headline EPS; compare the new price with a *re-modeled* segment valuation and identify whether the move already prices SI profits and Starship progress. An operational reinforcement can coexist with a poor prospective return.
+- **If it sells off:** test whether the cause is Q4 capex/payback, acquisition dilution or a genuine deterioration in Starlink economics. A lower quote is not itself a thesis break or a license to average down.
+- **If a definitive Tesla proposal appears:** suspend the old standalone target and evaluate exchange ratio, minority-shareholder safeguards, incremental debt, dilution and the merged entity's cash-flow allocation before any position change.
+
+**Next evidence gate:** obtain the company's own Q3 call replay/transcript and subsequent 10-Q; reconcile Q4 capex guidance, SI contract economics, Cursor-related share count, debt/related-party items, and any formal Tesla filing. Rebuild risk-adjusted expected value before altering the card's rating. The operating status is **reinforced**; valuation and capital allocation are **under review**, not broken. No leverage or immediate trade is recommended.
