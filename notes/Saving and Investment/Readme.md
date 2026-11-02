@@ -2,7 +2,7 @@
 
 An evidence-driven research workflow for a concentrated, growth-oriented equity portfolio. The project connects a live holdings file, company thesis cards, scheduled market monitoring and dated investment memos. Its goal is to make changes in the *investment case* visible before they become unexamined changes in portfolio risk.
 
-> **Project status (November 2026):** Working research and reporting process with 19 company thesis cards and a dated report archive. This repository is primarily Markdown research, not an executable trading system or a statistically validated alpha strategy. But we plan to make it completely autonomous in the future.
+> **Project status (November 2026):** Working research and reporting process with 19 company thesis cards and a dated report archive. The long-term objective is a tested quantitative strategy connected to a controlled, automated trading system; research automation is the first stage.
 
 ## The problem
 
@@ -58,16 +58,17 @@ The [2 November weekly note](AI_Report_weekly/2026-11-02_report.md) illustrates 
 | [`rating criteria.md`](rating%20criteria.md) | Ordinal upside-to-rating rubric |
 | [`AI_Report_weekly/`](AI_Report_weekly/) | Dated weekly notes, separate suggestions and event-driven reports |
 | [`Notes on Investment/`](Notes%20on%20Investment/) | Personal research notes and planning material; not the live holdings source |
-| [`Readme.md`](MyQuant/README.md) | Original personal project note retained for historical context |
 
 Filenames and dates preserve the evolution of the research. Existing reports and thesis cards are treated as user-owned records; revisions are added as new dated files rather than replacing prior conclusions.
 
-## What this project does not yet establish
+## Roadmap: from research assistant to quantitative trading system
 
-This is **not** a backtested strategy, a live order-management system or proof of alpha. The current archive has no reproducible data pipeline, clean transaction ledger, benchmark-relative performance attribution, calibrated scenario probabilities or measured out-of-sample results. Some thesis-card target values are stale after earnings or macro events, and different reports can use quotes from different points in the trading day. The published notes therefore distinguish observed facts, scenario assumptions and open questions.
+The current system produces thesis monitoring and conditional portfolio research. It does not yet calculate production signals, backtest them or submit trades. The next stages are designed to turn the research process into a measurable strategy and, only after validation, an automated execution workflow.
 
-The next engineering step would be to add a versioned holdings ledger and timestamped price/filing snapshots, then automate validation of position arithmetic, missing cards, source freshness and report links. A subsequent research step would test whether thesis revisions or event classifications predict *subsequent* risk-adjusted returns, using a prespecified benchmark, transaction costs and a strict no-look-ahead design. Until those tests exist, the value of the project is disciplined research and auditable decision support.
+1. **Build a reproducible data foundation.** Maintain a versioned holdings and transaction ledger; save timestamped, point-in-time prices, corporate actions, financial statements and event records. Add checks for stale sources, missing holdings or cards, arithmetic errors and broken report links.
+2. **Define testable signals.** Translate thesis revisions, earnings surprises, valuation changes and risk exposures into explicit features and portfolio rules. Specify the investable universe, rebalance schedule, position limits, benchmark and the conditions under which a signal is inactive. Keep discretionary judgments separate from model inputs.
+3. **Validate the strategy.** Run walk-forward and out-of-sample tests with realistic transaction costs, slippage and corporate actions. Report returns alongside volatility, drawdown, turnover, factor exposure and benchmark-relative performance. Use point-in-time data and strict event timestamps to prevent look-ahead and survivorship bias; test sensitivity to parameters and market regimes.
+4. **Paper trade before live execution.** Run the same signal and sizing logic on a paper account, reconcile expected and actual fills, and log every decision with its input data and model version. Monitor drift between the backtest and live market conditions.
+5. **Add controlled automated trading.** Connect to a broker only after paper-trading acceptance criteria are met. Separate signal generation from order execution; enforce pre-trade limits, cash and exposure checks, duplicate-order protection, a kill switch, reconciliation and alerts. Begin with a limited rollout and retain a complete audit trail.
 
-## Sharing and privacy
-
-The live portfolio file contains personal holdings and investor details. Before publishing a public application repository, replace it with a synthetic example or obtain explicit consent for disclosure, and check report archives for share counts and other identifying information. The methodology and sample outputs can be discussed without exposing the private account.
+The end state is a system that can explain **why** a position exists, **how** its size was chosen, **what** evidence would change it and **whether** the resulting strategy performs after costs. No return or alpha claim will be made before the validation stage produces evidence.
