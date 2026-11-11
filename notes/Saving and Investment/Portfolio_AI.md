@@ -1,15 +1,15 @@
-AVGO 3.4 shares
-APP 1 share
-NVDA 5.1 shares
-ROAD 10.4 shares
-GRAB 0 share
-MU 1.58 shares
+AVGO 6.5 shares
+NVDA 6 shares
+ROAD 6 shares
+GRAB 192 share
+SNDK 1.8 shares
+MU 6.7 shares
 META 0 share
-AMZN 1 share
+AMZN 13.9 share
 SPCX 7.34 shares
-RKLB 14 shares
-NU 71.75 shares
-SOFI 44.49 shares
+RKLB 12 shares
+NU 51 shares
+SOFI 15 shares
 
 
 

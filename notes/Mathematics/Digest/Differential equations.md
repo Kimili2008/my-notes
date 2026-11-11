@@ -42,5 +42,26 @@ $$
 general answer=$C_{1}e^{a}\cos(b)+C_{2}e^{a}\sin(b)$ when $\Delta<0$
 
 
+## Coupled ODEs
+1. stepwise function $\zeta \text{ is called the damp ratio}$
+
+$\zeta < 1$ wiggles until comes to a full stop, underdamped
+$\zeta=1$ just enough to come to a full stop, just damped
+$\zeta>1$ stop before it reaches the equili equation, damped
+
+
+$$\frac{d}{dt} y_{1}+k_{1}y_{1}+k_{2}y_{2}=f(t)$$
+$$\frac{d}{dt} y_{2}+k_{3}y_{1}+k_{4}y_{2}=g(t)$$
+can be translated into
+$$\hat{y}+Ay=g$$
+- can be solved by differentiate one of the ODE, and substitute it back to the second one
+- can be solved by a matrix method
+note that 
+$A=PDP^{-1}$
+$y=Pz$
+$$\text{we get  }\hat{z}+Dz=P^{-1}g$$
+
+
+
 
 
