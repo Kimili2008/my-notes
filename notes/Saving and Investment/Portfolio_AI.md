@@ -1,18 +1,25 @@
-AVGO 6.5 shares
-NVDA 6 shares
-ROAD 6 shares
+AVGO 3.2 shares
+NVDA 4 shares
+ROAD 18 shares
 GRAB 192 share
-SNDK 1.8 shares
-MU 6.7 shares
-META 0 share
-AMZN 13.9 share
-SPCX 7.34 shares
-RKLB 12 shares
-NU 51 shares
-SOFI 15 shares
+MU 4.3569 shares
+AMZN 16.84 share
+AMZZ 39.7 shares
+SPCX 1 shares
+HSBC 32 shares
+JPM 3 shares
+MELI 1.6 shares
+TSLA 2 shares
+VOO 2 shares
+NU 55 shares
+SOFI 16 shares
+UBER 24.8 shares
+GOOGL 4 shares
 
 
 
+total：16000 dollars
+cash：-8000 dollars
 # Details
 - Expected Return : 40% each year
 - Present return: 300%
